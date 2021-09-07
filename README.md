@@ -1,0 +1,5 @@
+- 👋 Hi, I’m raven
+- 👀 I’m interested in penetration test with python
+- 🌱 I’m currently learning python
+- 📫 How to reach me ... find it :)
+---> if you help in learn hack with python i will appriciate 
